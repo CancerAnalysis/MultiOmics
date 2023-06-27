@@ -4,5 +4,5 @@ In this study, we conducted whole transcriptome sequencing analysis of 66 paired
 
 <img width="1020" alt="image" src="https://github.com/CancerAnalysis/MultiOmics/assets/104743712/d854719e-4a00-455a-a2cd-8224434ac8ea">
 
-<img width="627" alt="image" src="https://github.com/CancerAnalysis/MultiOmics/assets/104743712/23c139d2-977b-432f-84b8-42ae71e9db32">
+<img width="627" style="margin-left: auto; margin-right: auto; display: block;" alt="image" src="https://github.com/CancerAnalysis/MultiOmics/assets/104743712/23c139d2-977b-432f-84b8-42ae71e9db32">
 
