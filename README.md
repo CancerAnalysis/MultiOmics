@@ -11,6 +11,7 @@ NMF: https://cran.r-project.org/web/packages/NMF/index.html <br>
 WGCNA: https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/ <br>
 Caret: https://topepo.github.io/caret/ <br>
 CellChat: http://www.cellchat.org/ <br>
+Monocle3: http://www.cellchat.org/](https://cole-trapnell-lab.github.io/monocle3/ <br>
 scATOMIC: https://github.com/abelson-lab/scATOMIC <br>
 SingleR: https://bioconductor.org/packages/release/bioc/html/SingleR.html <br>
 Nebulosa: https://www.bioconductor.org/packages/release/bioc/html/Nebulosa.html <br>
