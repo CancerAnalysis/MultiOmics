@@ -15,3 +15,6 @@ scATOMIC: https://github.com/abelson-lab/scATOMIC <br>
 SingleR: https://bioconductor.org/packages/release/bioc/html/SingleR.html <br>
 Nebulosa: https://www.bioconductor.org/packages/release/bioc/html/Nebulosa.html <br>
 Seurat 4.0: https://satijalab.org/seurat/ <br>
+
+# Support
+If you have any additional questions about our research, please contact the corresponding authors via email
