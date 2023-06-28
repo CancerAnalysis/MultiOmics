@@ -4,5 +4,14 @@ In this study, we conducted whole transcriptome sequencing analysis of 66 paired
 
 <img width="1020" height="400" alt="image" src="https://github.com/CancerAnalysis/MultiOmics/assets/104743712/d854719e-4a00-455a-a2cd-8224434ac8ea">
 
-# Contribution
-Seurat: https://satijalab.org/seurat/
+# Major contribution of analysis
+BCBIO: https://github.com/bcbio/bcbio-nextgen <br>
+DESeq2: https://bioconductor.org/packages/release/bioc/html/DESeq2.html <br>
+NMF: https://cran.r-project.org/web/packages/NMF/index.html <br>
+WGCNA: https://horvath.genetics.ucla.edu/html/CoexpressionNetwork/Rpackages/WGCNA/ <br>
+Caret: https://topepo.github.io/caret/ <br>
+CellChat: http://www.cellchat.org/ <br>
+scATOMIC: https://github.com/abelson-lab/scATOMIC <br>
+SingleR: https://bioconductor.org/packages/release/bioc/html/SingleR.html <br>
+Nebulosa: https://www.bioconductor.org/packages/release/bioc/html/Nebulosa.html <br>
+Seurat 4.0: https://satijalab.org/seurat/ <br>
